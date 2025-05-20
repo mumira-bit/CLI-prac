@@ -1,1 +1,6 @@
 MY name is Esther Mumira
+Yesterday we learnt about CLI(command line interface).
+Cli ia a way of interacting with your computer using text e.g ls-list files
+one of the disadvantages of cli is back in the day you had to remember and type in all the commands
+The advantage of cli especially for developers is it helps connect with data on a deeper level and you can navigate through
+
