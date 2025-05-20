@@ -3,4 +3,7 @@ Yesterday we learnt about CLI(command line interface).
 Cli ia a way of interacting with your computer using text e.g ls-list files
 one of the disadvantages of cli is back in the day you had to remember and type in all the commands
 The advantage of cli especially for developers is it helps connect with data on a deeper level and you can navigate through
+We also learnt about GUI(graphical user interface).its basically icons,buttons and menus
+Before gui people used terminals to open files.
+They removed the need to memorize commands
 
